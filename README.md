@@ -1,2 +1,4 @@
-# ReactNativeTask
-react native task
+Clone the repo
+Checkout to master
+Type yarn
+Type yarn android
