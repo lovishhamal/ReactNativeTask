@@ -1,4 +1,4 @@
-Clone the repo
-Checkout to master
-Type yarn
-Type yarn android
+1. Clone the repo
+2. Checkout to master
+3. Type yarn
+4. Type yarn android
